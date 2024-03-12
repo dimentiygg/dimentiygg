@@ -42,10 +42,9 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dimentiygg/dimentiy/output/github-contribution-grid-snake.svg"/>
- ![snake gif](https://github.com/dimentiygg/dimentiy/blob/output/github-contribution-grid-snake.gif)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dimentiygg/dimentiy/output/github-contribution-grid-snake.svg" />
   
-  <br/>
+  <br/><br/><br/>
 </div>
 
 <hr/>
