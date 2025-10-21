@@ -10,7 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Justice League website**
  
  🌱 I’m currently learning **React**
 
